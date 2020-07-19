@@ -1,0 +1,11 @@
+click
+Flask
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+Flask-RESTful
+cmake
+opencv-python
+face-recognition
+numpy
